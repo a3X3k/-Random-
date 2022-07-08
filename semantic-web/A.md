@@ -1,4 +1,4 @@
-# Introduction
+# Lecture 1
 
 {% tabs %}
 {% tab title="Video" %}
