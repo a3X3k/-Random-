@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Semantic Web](README.md)
-  * [References](semantic-web/references.md)
+  * [Introduction](semantic-web/introduction.md)
