@@ -1,11 +1,9 @@
-# Lecture 1
+# Introduction
 
 {% tabs %}
 {% tab title="Video" %}
 {% embed url="https://www.youtube.com/watch?v=OGg8A2zfWKg" %}
-{% endtab %}
-
-{% tab title="Blog" %}
-{% embed url="https://devopedia.org/semantic-web" %}
+Introduction
+{% endembed %}
 {% endtab %}
 {% endtabs %}
