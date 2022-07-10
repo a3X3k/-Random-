@@ -5,3 +5,5 @@
   * [URI, URL, URN](https://danielmiessler.com/study/difference-between-uri-url/)
   * [Ontologies](semantic-web/ontologies.md)
   * [XML](semantic-web/xml.md)
+  * [RDF](https://www.xul.fr/en-xml-rdf.php)
+  * [RDF](semantic-web/rdf.md)
