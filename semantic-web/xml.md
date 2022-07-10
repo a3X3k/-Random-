@@ -10,7 +10,7 @@
 * A Web browser might simply display them in italics, whereas a voice browser (which reads Web pages aloud) might indicate the emphasis by changing the tone or the volume of its voice. Each program can respond appropriately to the meaning encoded in the markup.&#x20;
 * In contrast, if we simply marked the words as in **italics**, the computer has no way of knowing why those words are in italics. Is it for emphasis or simply for a visual effect? How does the voice browser display this effect?&#x20;
 
-`I just got a new pet dog`
+> `I just got a new pet dog`
 
 * &#x20;As far as our computer is concerned, this is just text. It has no particular meaning to the computer.&#x20;
 * But now consider this same passage marked up using an XML based markup language&#x20;
