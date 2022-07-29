@@ -51,3 +51,5 @@ Solution : Uniquely identify the markup elements by assigning a URI to each of o
 
 * A namespace is just a way of identifying a part of the Web from which we derive the meaning of these names.
 * Since everyone's tags have their own URIs, we don't have to worry about tag names conflicting.
+
+{% embed url="https://www.w3schools.com/xml/xml_whatis.asp" %}
