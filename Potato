@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T15:08:48.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="4mOqyA9rsoxGaYZ2cbfi" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T15:12:01.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Cq4-VlbzooaYlaz1EE8I" version="21.2.9" type="github">
   <diagram name="Page-1" id="gLY0CYHYqVSiFtgqcX0H">
     <mxGraphModel dx="1248" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -35,6 +35,24 @@
         </mxCell>
         <mxCell id="r_TXt3GTLtDiKch51VgW-15" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_TXt3GTLtDiKch51VgW-16" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_TXt3GTLtDiKch51VgW-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Acquisition&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="81.42" y="420" width="139" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_TXt3GTLtDiKch51VgW-19" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Pre-Processing&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="343.26" y="420" width="170.83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_TXt3GTLtDiKch51VgW-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Augmentation&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="571.8199999999999" y="420" width="155.73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_TXt3GTLtDiKch51VgW-22" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Feature Extraction&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="803.61" y="420" width="156.17" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r_TXt3GTLtDiKch51VgW-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Classification&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1082.8" y="420" width="103.38" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
