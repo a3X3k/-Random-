@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-19T20:09:26.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EmH2GwYJSw1faw00Y-3j" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-19T20:11:17.525Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="brrzQGh1V6s7iahj8XgB" version="21.3.2" type="github">
   <diagram id="FLARmqn-sCxhorqhwDuB" name="Page-1">
-    <mxGraphModel dx="4308" dy="5260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4548" dy="5260" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="Bj5Dhtw8FeCgVAGArAPr-3" value="" style="verticalLabelPosition=bottom;&#xa;verticalAlign=top;&#xa;html=1;&#xa;shape=mxgraph.basic.rect;&#xa;fillColor=#ffffff;&#xa;fillColor2=none;&#xa;strokeColor=#000000;&#xa;strokeWidth=0;&#xa;size=20;&#xa;indent=5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1206" y="-449" width="145" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Bj5Dhtw8FeCgVAGArAPr-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/017/414/860/original/rice-plant-cartoon-illustration-vector.jpg;clipPath=inset(13% 18.67% 7.33% 19%);" vertex="1" parent="1">
+          <mxGeometry x="-1204.31" y="-458" width="141.62" height="181" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
