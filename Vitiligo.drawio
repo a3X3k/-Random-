@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T06:01:11.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="HB8KNSSozdjDHBob_kzy" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T06:09:40.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="foF56KugelQgyizemfsV" version="22.1.15" type="github">
   <diagram name="Page-1" id="tqetK6CSH79DsMxp3hTY">
     <mxGraphModel dx="1856" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="77XtE3MiVHBfdM3f2UC5-22" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-90" width="960" height="210" as="geometry" />
+        </mxCell>
         <mxCell id="77XtE3MiVHBfdM3f2UC5-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="77XtE3MiVHBfdM3f2UC5-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="20" as="targetPoint" />
@@ -48,6 +51,21 @@
         </mxCell>
         <mxCell id="77XtE3MiVHBfdM3f2UC5-13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/K-fold_cross_validation_EN.svg/1200px-K-fold_cross_validation_EN.svg.png;clipPath=inset(3.38% 4.67% 4.05% 5.67%);" vertex="1" parent="1">
           <mxGeometry x="1170" y="-40" width="243" height="123.75836431226766" as="geometry" />
+        </mxCell>
+        <mxCell id="77XtE3MiVHBfdM3f2UC5-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;AIMS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-109.58999999999997" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77XtE3MiVHBfdM3f2UC5-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Vitiligo Population&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="32.59" y="80" width="124.94" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77XtE3MiVHBfdM3f2UC5-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Capture Vitiligo Area&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="187.57" y="83.76" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77XtE3MiVHBfdM3f2UC5-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Vitiligo Image&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="348.11" y="83.76" width="101.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="77XtE3MiVHBfdM3f2UC5-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Vitiligo Extent, Intensity,&amp;nbsp;and Distribution Index (&lt;/b&gt;&lt;b&gt;VEIDI)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="775" y="-80" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
