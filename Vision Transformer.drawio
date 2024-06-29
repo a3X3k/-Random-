@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T15:39:32.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="QZRBYCtZTxNl8xPmwFMC" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T15:41:14.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Opq4dSsn7nIrY5UCoD-j" version="24.5.2" type="github">
   <diagram name="Page-1" id="EITlNzLqMYplicmvbA2Q">
-    <mxGraphModel dx="3069" dy="1853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2281" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vwMGV9XsocVn_r83hheC-81" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;imageWidth=24;absoluteArcSize=0;noLabel=0;portConstraintRotation=0;arcSize=9;imageHeight=24;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-141.01" y="-320" width="291.01" height="260" as="geometry" />
+          <mxGeometry x="-141.01" y="-320" width="291.01" height="250" as="geometry" />
         </mxCell>
         <mxCell id="vwMGV9XsocVn_r83hheC-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=0;imageWidth=24;absoluteArcSize=0;noLabel=0;portConstraintRotation=0;arcSize=9;imageHeight=24;" vertex="1" parent="1">
           <mxGeometry x="-571.87" y="-220" width="370" height="440" as="geometry" />
@@ -202,8 +202,8 @@
         <mxCell id="vwMGV9XsocVn_r83hheC-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://carpentries-incubator.github.io/intro-image-classification-cnn/fig/03-neural_network_sketch_dense.png;rotation=90;clipPath=inset(0.52% 59.33% 14.58% 1.67%);" vertex="1" parent="1">
           <mxGeometry x="-87.03" y="-305" width="183.04" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="vwMGV9XsocVn_r83hheC-82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fusion Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-83.09" y="-310" width="175.16" height="30" as="geometry" />
+        <mxCell id="vwMGV9XsocVn_r83hheC-82" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Fusion Layer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-83.09" y="-305" width="175.16" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vwMGV9XsocVn_r83hheC-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="vwMGV9XsocVn_r83hheC-69">
           <mxGeometry relative="1" as="geometry">
