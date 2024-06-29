@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-29T15:41:23.669Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="AwvJCBKDbXw6R5viMXK1" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-29T15:44:27.948Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="TGbz5X5AZ2nBoCWFlCMW" version="24.5.2" type="github">
   <diagram name="Page-1" id="EITlNzLqMYplicmvbA2Q">
-    <mxGraphModel dx="2281" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2977" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,6 +209,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-142" y="-291" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vwMGV9XsocVn_r83hheC-84" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://carpentries-incubator.github.io/intro-image-classification-cnn/fig/03-neural_network_sketch_dense.png;rotation=90;clipPath=inset(1.04% 1.67% 15.1% 40.33%);" vertex="1" parent="1">
+          <mxGeometry x="-130.25" y="-50" width="269.49" height="249.36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
