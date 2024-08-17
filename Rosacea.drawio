@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="rJ6nqWbIh31rbYRror40">
-    <mxGraphModel dx="181" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="180" dy="95" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,9 +200,9 @@
             <mxPoint x="600" y="170" as="targetPoint" />
             <Array as="points">
               <mxPoint x="480" y="210" />
-              <mxPoint x="480" y="230" />
-              <mxPoint x="530" y="230" />
-              <mxPoint x="590" y="230" />
+              <mxPoint x="480" y="220" />
+              <mxPoint x="530" y="220" />
+              <mxPoint x="590" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -212,14 +212,14 @@
             <mxPoint x="730" y="195" as="targetPoint" />
             <Array as="points">
               <mxPoint x="610" y="210" />
-              <mxPoint x="610" y="230" />
-              <mxPoint x="680" y="230" />
-              <mxPoint x="720" y="230" />
+              <mxPoint x="610" y="220" />
+              <mxPoint x="680" y="220" />
+              <mxPoint x="720" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-81" value="Swin Tranformer Block" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="30" width="135" height="20" as="geometry" />
+          <mxGeometry x="537.5" y="20" width="135" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-92" value="Z" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;html=1;horizontal=1;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="735" y="75" width="10" height="10" as="geometry" />
@@ -228,10 +228,10 @@
           <mxGeometry x="745" y="80" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-108" value="Z" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;html=1;horizontal=1;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="456.5" y="200" width="10" height="10" as="geometry" />
+          <mxGeometry x="456.5" y="195" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-109" value="l" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="464" y="207" width="10" height="10" as="geometry" />
+          <mxGeometry x="464" y="202" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-112" value="Z" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;html=1;horizontal=1;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="474" y="104.69000000000001" width="10" height="10" as="geometry" />
@@ -241,6 +241,15 @@
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-114" value="l + 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="735" y="215.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-116" value="Z" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;html=1;horizontal=1;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="590" y="225.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-117" value="l + 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="590" y="242.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-118" value="^" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacing=0;direction=east;flipH=0;flipV=1;rotation=90;fontStyle=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="596" y="225.5" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
