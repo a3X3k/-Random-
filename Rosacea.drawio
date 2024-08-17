@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="rJ6nqWbIh31rbYRror40">
-    <mxGraphModel dx="1429" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1053" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1025,6 +1025,18 @@
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-190" target="T2218ErhzX_Oap4okETI-246">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-299" value="Stage 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="363.84" y="280" width="46.33" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-300" value="Stage 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="873.8399999999999" y="280" width="46.33" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-301" value="Stage 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="363.84" y="650" width="46.33" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-302" value="Stage 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="883.8399999999999" y="650" width="46.33" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
