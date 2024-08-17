@@ -1016,8 +1016,8 @@
         <mxCell id="T2218ErhzX_Oap4okETI-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-133" target="T2218ErhzX_Oap4okETI-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1360" y="143" />
-              <mxPoint x="1360" y="320" />
+              <mxPoint x="1350" y="143" />
+              <mxPoint x="1350" y="320" />
               <mxPoint x="290" y="320" />
               <mxPoint x="290" y="513" />
             </Array>
