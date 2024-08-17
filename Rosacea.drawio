@@ -287,7 +287,7 @@
         <mxCell id="T2218ErhzX_Oap4okETI-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-135" target="T2218ErhzX_Oap4okETI-133">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-135" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Patch Merging&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;horizontal=1;strokeWidth=3;gradientDirection=radial;fontStyle=1;spacingTop=0;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="T2218ErhzX_Oap4okETI-135" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Patch Merging&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;horizontal=1;strokeWidth=3;gradientDirection=radial;fontStyle=1;spacingTop=0;fontSize=20;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="797.1300000000001" y="112.19" width="202.87" height="40.63" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-138" target="T2218ErhzX_Oap4okETI-139">
