@@ -527,28 +527,28 @@
           <mxGeometry x="874.05" y="290" width="86.16" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-310" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;strokeWidth=2;strokeColor=none;fillColor=#FFFF00;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="634.87" y="760" width="50" height="20" as="geometry" />
+          <mxGeometry x="672" y="760" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-311" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;strokeWidth=2;fillColor=#0000FF;strokeColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="148.61" y="800" width="50" height="20" as="geometry" />
+          <mxGeometry x="185.74" y="800" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-312" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;strokeWidth=2;fillColor=#FF0000;strokeColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="148.61" y="760" width="50" height="20" as="geometry" />
+          <mxGeometry x="185.74" y="760" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-315" value="Window based Multi-Head Self-Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="697.13" y="760" width="390" height="20" as="geometry" />
+          <mxGeometry x="734.26" y="760" width="390" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-316" value="Layer Norm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="210.48000000000005" y="800" width="120.39" height="20" as="geometry" />
+          <mxGeometry x="247.61000000000004" y="800" width="120.39" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-317" value="Multi Layer Perceptron" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="210.48000000000005" y="760" width="220.39" height="20" as="geometry" />
+          <mxGeometry x="247.61000000000004" y="760" width="220.39" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-318" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;strokeWidth=2;strokeColor=none;fillColor=#00FF00;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="634.87" y="800" width="50" height="20" as="geometry" />
+          <mxGeometry x="672" y="800" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-319" value="Shifted Window based Multi-Head Self-Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="697.13" y="800" width="460" height="20" as="geometry" />
+          <mxGeometry x="734.26" y="800" width="460" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-320" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Feature Map Output&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;horizontal=1;strokeWidth=2;fillColor=#0050ef;strokeColor=none;fontStyle=1;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1157.13" y="522.19" width="205.74" height="40.63" as="geometry" />
