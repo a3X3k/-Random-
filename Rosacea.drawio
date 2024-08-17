@@ -1026,17 +1026,17 @@
         <mxCell id="T2218ErhzX_Oap4okETI-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-190" target="T2218ErhzX_Oap4okETI-246">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-299" value="Stage 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="363.84" y="280" width="46.33" height="20" as="geometry" />
+        <mxCell id="T2218ErhzX_Oap4okETI-299" value="Stage 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="363.84" y="280" width="86.16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-300" value="Stage 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="873.8399999999999" y="280" width="46.33" height="20" as="geometry" />
+        <mxCell id="T2218ErhzX_Oap4okETI-304" value="Stage 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="343.91999999999996" y="650" width="86.16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-301" value="Stage 3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="363.84" y="650" width="46.33" height="20" as="geometry" />
+        <mxCell id="T2218ErhzX_Oap4okETI-305" value="Stage 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="863.92" y="650" width="86.16" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-302" value="Stage 4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="883.8399999999999" y="650" width="46.33" height="20" as="geometry" />
+        <mxCell id="T2218ErhzX_Oap4okETI-306" value="Stage 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="853.92" y="280" width="86.16" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
