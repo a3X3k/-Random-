@@ -1064,6 +1064,12 @@
         <mxCell id="T2218ErhzX_Oap4okETI-317" value="Multi Layer Perceptron" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="169.61" y="740" width="220.39" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-318" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=west;strokeWidth=2;strokeColor=none;fillColor=#00FF00;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="107.74000000000001" y="860" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-319" value="Shifted Window based Multi-Head Self-Attention" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="170" y="860" width="460" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
