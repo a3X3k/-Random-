@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V_W-AXTt845SDZlnu5IB-7" value="" style="swimlane;startSize=0;strokeWidth=3;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry y="41.25" width="202.35" height="202.51" as="geometry">
+          <mxGeometry x="-0.88" y="30" width="202.35" height="202.51" as="geometry">
             <mxRectangle x="63.43" y="65" width="130" height="120" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -28,21 +28,25 @@
           <mxGeometry x="71.76" y="81.26" width="98.83" height="90" as="geometry" />
         </mxCell>
         <mxCell id="V_W-AXTt845SDZlnu5IB-9" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 20px;&quot;&gt;Input Image&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="44.250000000000014" y="250" width="118.24" height="30" as="geometry" />
+          <mxGeometry x="43.37000000000001" y="238.75" width="118.24" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="V_W-AXTt845SDZlnu5IB-12">
+        <mxCell id="T2218ErhzX_Oap4okETI-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontStyle=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="V_W-AXTt845SDZlnu5IB-12" target="T2218ErhzX_Oap4okETI-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="440" y="143" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="131" />
+              <mxPoint x="430" y="133" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="V_W-AXTt845SDZlnu5IB-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Linear Embedding&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;horizontal=1;strokeWidth=2;gradientDirection=radial;fillColor=#FFFFFF;gradientColor=none;strokeColor=default;fontStyle=1;fontColor=default;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="270" y="122.19" width="230" height="40.63" as="geometry" />
+          <mxGeometry x="270.3" y="110.94" width="230" height="40.63" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;fontStyle=1" edge="1" parent="1" source="V_W-AXTt845SDZlnu5IB-14" target="V_W-AXTt845SDZlnu5IB-12">
+        <mxCell id="T2218ErhzX_Oap4okETI-554" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="V_W-AXTt845SDZlnu5IB-14" target="V_W-AXTt845SDZlnu5IB-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="V_W-AXTt845SDZlnu5IB-14" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Patch Partition&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;horizontal=1;strokeWidth=2;fillColor=#0050ef;strokeColor=none;fontStyle=1;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="188.1" y="122.19" width="175.74" height="40.63" as="geometry" />
+          <mxGeometry x="187.22" y="110.94" width="175.74" height="40.63" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;fontSize=15;fontStyle=1" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-1" target="T2218ErhzX_Oap4okETI-2">
           <mxGeometry relative="1" as="geometry" />
