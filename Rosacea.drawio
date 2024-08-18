@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="rJ6nqWbIh31rbYRror40">
-    <mxGraphModel dx="2668" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1438" dy="1409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1078,6 +1078,18 @@
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-553" value="Swin Transformer Block" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="489.03" y="21.25" width="231.95" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-555" value="x 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="735" y="280" width="36.16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-556" value="x 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1254.97" y="290" width="36.16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-557" value="x 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1087.8400000000001" y="700" width="36.16" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T2218ErhzX_Oap4okETI-558" value="x 6" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="560.84" y="700" width="36.16" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
