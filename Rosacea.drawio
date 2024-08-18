@@ -1401,20 +1401,8 @@
         <mxCell id="T2218ErhzX_Oap4okETI-674" value="Perturb Input &amp;amp; Weight Feature Maps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="255.97" y="2550" width="415.94" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-690" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-681" target="T2218ErhzX_Oap4okETI-689">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-681" value="&lt;span class=&quot;hljs-variable&quot;&gt;Heatmap Generation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="19.68999999999999" y="2730" width="265" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-692" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-689" target="T2218ErhzX_Oap4okETI-691">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-689" value="Overlay Heatmap on Input Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-32.010000000000005" y="2850" width="370.31" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-691" value="Visual Interpretation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="18.15" y="2970" width="268.65" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
