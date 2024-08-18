@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="Page-1" id="rJ6nqWbIh31rbYRror40">
-    <mxGraphModel dx="2668" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1379,18 +1379,22 @@
           <mxGeometry x="344.09" y="2430" width="239.7" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-687" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-673" target="T2218ErhzX_Oap4okETI-681">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-193" y="2670" />
+              <mxPoint x="152" y="2670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-673" value="Compute Gradients &amp;amp; Weight Feature Maps" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-425" y="2550" width="464.87" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-688" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-674">
+        <mxCell id="T2218ErhzX_Oap4okETI-688" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;endArrow=none;endFill=0;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-674">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="152.44" y="2710" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="463.44" y="2670" />
-              <mxPoint x="153.44" y="2670" />
-              <mxPoint x="153.44" y="2710" />
+              <mxPoint x="464" y="2670" />
+              <mxPoint x="152" y="2670" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1400,17 +1404,17 @@
         <mxCell id="T2218ErhzX_Oap4okETI-690" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-681" target="T2218ErhzX_Oap4okETI-689">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T2218ErhzX_Oap4okETI-681" value="&lt;span class=&quot;hljs-variable&quot;&gt;Generate&lt;/span&gt; &lt;span class=&quot;hljs-variable&quot;&gt;Heatmap&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="22.12999999999999" y="2720" width="265" height="70" as="geometry" />
+        <mxCell id="T2218ErhzX_Oap4okETI-681" value="&lt;span class=&quot;hljs-variable&quot;&gt;Heatmap Generation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="19.68999999999999" y="2730" width="265" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-692" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" edge="1" parent="1" source="T2218ErhzX_Oap4okETI-689" target="T2218ErhzX_Oap4okETI-691">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-689" value="Overlay Heatmap on Input Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-29.570000000000004" y="2840" width="370.31" height="70" as="geometry" />
+          <mxGeometry x="-32.010000000000005" y="2850" width="370.31" height="70" as="geometry" />
         </mxCell>
         <mxCell id="T2218ErhzX_Oap4okETI-691" value="Visual Interpretation" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00FF00;strokeColor=none;fontSize=20;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20.59" y="2960" width="268.65" height="70" as="geometry" />
+          <mxGeometry x="18.15" y="2970" width="268.65" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
