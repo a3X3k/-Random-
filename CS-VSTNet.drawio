@@ -490,13 +490,14 @@
         <mxCell id="XkldTIz7JzUrMq2qtJ4d-189" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;fillColor=default;dashed=1;strokeWidth=4;container=0;" parent="1" vertex="1">
           <mxGeometry x="673.13" y="2212.5" width="360" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="6CLf8UcsJCtWtFf_cssw-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="XkldTIz7JzUrMq2qtJ4d-190">
+        <mxCell id="6CLf8UcsJCtWtFf_cssw-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XkldTIz7JzUrMq2qtJ4d-190" target="6CLf8UcsJCtWtFf_cssw-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="853.13" y="2382.5" as="targetPoint" />
+            <mxPoint x="850" y="2410" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="769.13" y="2352.5" />
-              <mxPoint x="854.13" y="2352.5" />
-              <mxPoint x="854.13" y="2382.5" />
+              <mxPoint x="770" y="2360" />
+              <mxPoint x="851" y="2360" />
+              <mxPoint x="851" y="2410" />
+              <mxPoint x="853" y="2410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -518,8 +519,8 @@
         <mxCell id="6CLf8UcsJCtWtFf_cssw-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="6CLf8UcsJCtWtFf_cssw-92" target="6CLf8UcsJCtWtFf_cssw-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="936.13" y="2352.5" />
-              <mxPoint x="853.13" y="2352.5" />
+              <mxPoint x="936" y="2360" />
+              <mxPoint x="853" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -535,7 +536,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6CLf8UcsJCtWtFf_cssw-93" value="&lt;font&gt;Element Wise&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font&gt;Multiplication &amp;amp; Summation&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0000FF;strokeWidth=2;fontSize=18;fontStyle=0;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="697.82" y="2387.32" width="310" height="73.45" as="geometry" />
+          <mxGeometry x="697.82" y="2417.1400000000003" width="310" height="73.45" as="geometry" />
         </mxCell>
         <mxCell id="6CLf8UcsJCtWtFf_cssw-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XkldTIz7JzUrMq2qtJ4d-190" target="XkldTIz7JzUrMq2qtJ4d-190">
           <mxGeometry relative="1" as="geometry" />
@@ -545,9 +546,6 @@
         </mxCell>
         <mxCell id="6CLf8UcsJCtWtFf_cssw-104" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;6&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;dashed=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="873.1299999999999" y="2332.5" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="6CLf8UcsJCtWtFf_cssw-106" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;7&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;dashed=1;fillColor=#FFFF00;fontColor=#000000;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="832.8199999999999" y="2477.27" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6CLf8UcsJCtWtFf_cssw-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="6CLf8UcsJCtWtFf_cssw-115" target="6CLf8UcsJCtWtFf_cssw-116">
           <mxGeometry relative="1" as="geometry" />
