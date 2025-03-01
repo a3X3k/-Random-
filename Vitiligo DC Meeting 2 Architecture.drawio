@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="tqetK6CSH79DsMxp3hTY">
-    <mxGraphModel dx="2582" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1869" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,11 +20,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ghLGe6GDCSPpPtlK3kCr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="ghLGe6GDCSPpPtlK3kCr-29" target="ghLGe6GDCSPpPtlK3kCr-32">
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="ghLGe6GDCSPpPtlK3kCr-29" target="ghLGe6GDCSPpPtlK3kCr-32">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="3225" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="3535" />
-              <mxPoint x="880" y="3231" />
+              <mxPoint x="880" y="3225" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -367,7 +368,7 @@
           <mxGeometry x="1195.51" y="2970" width="254.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-32" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Redness &amp;amp; Vascular&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Conditions&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1195.51" y="3180" width="258.02" height="102.89" as="geometry" />
+          <mxGeometry x="1193.74" y="3173.56" width="258.02" height="102.89" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-33" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Hyperpigmentation&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Conditions&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" vertex="1" parent="1">
           <mxGeometry x="1199.04" y="3380" width="254.49" height="100" as="geometry" />
@@ -379,7 +380,7 @@
           <mxGeometry x="912.4399999999999" y="3030" width="244.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-40" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;RGR (Red-Green Ratio) &amp;gt; 0.4&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="894.61" y="3240" width="280.63" height="30" as="geometry" />
+          <mxGeometry x="895.49" y="3240" width="280.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-41" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Contrast &amp;gt; 2.0 &amp;amp; Entropy &amp;gt; 4.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="882.2800000000001" y="3640" width="305.29" height="30" as="geometry" />
