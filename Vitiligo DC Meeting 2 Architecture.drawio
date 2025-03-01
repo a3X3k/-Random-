@@ -39,6 +39,9 @@
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-29" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;fontSize=20;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="139.62" y="3390" width="609.44" height="290" as="geometry" />
         </mxCell>
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="ghLGe6GDCSPpPtlK3kCr-2" target="ghLGe6GDCSPpPtlK3kCr-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;fontSize=20;arcSize=12;" vertex="1" parent="1">
           <mxGeometry x="64.34" y="2970" width="760" height="360" as="geometry" />
         </mxCell>
@@ -361,16 +364,31 @@
           <mxGeometry x="316.85" y="3630" width="254.98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-31" value="&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Hypopigmentation Conditions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1103.53" y="2970" width="254.49" height="100" as="geometry" />
+          <mxGeometry x="1195.51" y="2970" width="254.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-32" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Redness &amp;amp; Vascular&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Conditions&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1101.76" y="3180" width="258.02" height="102.89" as="geometry" />
+          <mxGeometry x="1195.51" y="3180" width="258.02" height="102.89" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-33" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Hyperpigmentation&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Conditions&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1105.29" y="3380" width="254.49" height="100" as="geometry" />
+          <mxGeometry x="1199.04" y="3380" width="254.49" height="100" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-34" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;span style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Epidermal Deficiency&lt;br&gt;Conditions&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" vertex="1" parent="1">
-          <mxGeometry x="1103.53" y="3580" width="254.49" height="100" as="geometry" />
+          <mxGeometry x="1199.04" y="3580" width="254.49" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-39" value="&lt;p style=&quot;line-height: 140%;&quot; data-pm-slice=&quot;0 0 []&quot;&gt;&lt;b&gt;Lightness Difference &amp;gt; 30&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="912.4399999999999" y="3030" width="244.97" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-40" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;RGR (Red-Green Ratio) &amp;gt; 0.4&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="894.61" y="3240" width="280.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-41" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Contrast &amp;gt; 2.0 &amp;amp; Entropy &amp;gt; 4.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="882.2800000000001" y="3640" width="305.29" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-42" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Green to Red shift &amp;gt; 20&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="895.03" y="3390" width="271.41" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ghLGe6GDCSPpPtlK3kCr-43" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Blue to Yellow shift &amp;gt; 20&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="895.03" y="3440" width="271.41" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
