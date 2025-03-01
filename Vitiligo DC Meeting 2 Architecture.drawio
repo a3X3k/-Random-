@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="tqetK6CSH79DsMxp3hTY">
-    <mxGraphModel dx="1869" dy="544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2425" dy="840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -380,7 +380,7 @@
           <mxGeometry x="912.4399999999999" y="3030" width="244.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-40" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;RGR (Red-Green Ratio) &amp;gt; 0.4&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="895.49" y="3240" width="280.63" height="30" as="geometry" />
+          <mxGeometry x="895.49" y="3230" width="280.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ghLGe6GDCSPpPtlK3kCr-41" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Contrast &amp;gt; 2.0 &amp;amp; Entropy &amp;gt; 4.0&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="882.2800000000001" y="3640" width="305.29" height="30" as="geometry" />
