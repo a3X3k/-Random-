@@ -728,7 +728,7 @@
           <mxGeometry y="37.5" width="120.26406790317495" height="113.75000000000003" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-182" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Final Convolution Layer&lt;br&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;spacing=2;spacingTop=-1;spacingBottom=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3551.55" y="2690" width="234" height="50" as="geometry" />
+          <mxGeometry x="3572.7000000000003" y="2677" width="234" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-188" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="3308" y="2814" width="128" height="300" as="geometry" />
