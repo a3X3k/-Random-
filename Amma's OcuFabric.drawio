@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FcMXUHWR00NRNhngyF1j-198" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;convertToSvg=1;" vertex="1" parent="1">
-          <mxGeometry x="3280" y="2780" width="450" height="410" as="geometry" />
+          <mxGeometry x="3230" y="2780" width="450" height="410" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-164" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2569.52" y="2780" width="630" height="410" as="geometry" />
@@ -731,7 +731,7 @@
           <mxGeometry x="3572.7000000000003" y="2677" width="234" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-188" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3308" y="2814" width="128" height="300" as="geometry" />
+          <mxGeometry x="3258" y="2814" width="128" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-183" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;fillColor=#FF0000;strokeColor=#FFFFFF;strokeWidth=2;size=18;fillStyle=auto;shadow=0;aspect=fixed;container=0;" vertex="1" parent="FcMXUHWR00NRNhngyF1j-188">
           <mxGeometry x="4.540577415032408" width="105.88541705119916" height="98.70674470874498" as="geometry" />
@@ -743,7 +743,7 @@
           <mxGeometry x="4.544" y="201.29325529125515" width="104.35994917842764" height="98.70674470874498" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-189" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="3542.02" y="2856" width="159.4" height="164" as="geometry" />
+          <mxGeometry x="3492.02" y="2856" width="159.4" height="164" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-190" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;fillColor=#0000FF;strokeColor=#FFFFFF;strokeWidth=2;size=18;" vertex="1" parent="FcMXUHWR00NRNhngyF1j-189">
           <mxGeometry x="39.13593209682503" width="120.26406790317495" height="118.44444444444449" as="geometry" />
@@ -762,20 +762,20 @@
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-195" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=47.74999999999999;exitPerimeter=0;entryX=0;entryY=0;entryDx=120.26406790317495;entryDy=65.87500000000001;entryPerimeter=0;" edge="1" parent="1" source="FcMXUHWR00NRNhngyF1j-184" target="FcMXUHWR00NRNhngyF1j-192">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3539.999999999999" y="3100" as="targetPoint" />
+            <mxPoint x="3489.999999999999" y="3100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-196" value="$$&#xa;\hat{Y}_i^m(t) = \text{Conv2D}_{1 \times 1}(z_2)&#xa;$$" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3310" y="3124" width="200" height="40" as="geometry" />
+          <mxGeometry x="3260" y="3124" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-197" value="$$&#xa;\hat{Y}_i^m(t) \in \mathbb{R}^{2H&#39; \times 2W&#39; \times m}&#xa;$$" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="3542.02" y="3030" width="178.45" height="36.69" as="geometry" />
+          <mxGeometry x="3492.02" y="3030" width="178.45" height="36.69" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-199" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Final Convolution Layer&lt;br&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;spacing=2;spacingTop=-1;spacingBottom=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3467.42" y="2790" width="234" height="50" as="geometry" />
+          <mxGeometry x="3417.42" y="2790" width="234" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-200" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;(1×1)&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;spacing=2;spacingTop=-1;spacingBottom=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3650" y="3114" width="60" height="50" as="geometry" />
+          <mxGeometry x="3600" y="3114" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
