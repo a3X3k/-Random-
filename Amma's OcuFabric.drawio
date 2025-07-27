@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FcMXUHWR00NRNhngyF1j-202" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="2540" y="2500" width="1290" height="260" as="geometry" />
+          <mxGeometry x="2540" y="2510" width="1260" height="250" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-198" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;dashed=1;convertToSvg=1;" vertex="1" parent="1">
           <mxGeometry x="3240.48" y="2880" width="450" height="410" as="geometry" />
@@ -781,7 +781,7 @@
           <mxGeometry x="3610.48" y="3214" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FcMXUHWR00NRNhngyF1j-203" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Decoder and Segmentation Prediction&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;fontStyle=1;spacing=2;spacingTop=-1;spacingBottom=0;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="3000" y="2700" width="370" height="40" as="geometry" />
+          <mxGeometry x="2985" y="2700" width="370" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
