@@ -459,7 +459,7 @@
           <mxGeometry x="-4.069999999999908" y="311.74" width="426.51" height="59" as="geometry" />
         </mxCell>
         <mxCell id="TblI4YKQc98QMrkOGGMb-86" value="&lt;font&gt;Hierarchical Few Shot Learning&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=40;fontStyle=3;strokeWidth=5;fontColor=light-dark(#000000, #121212);" parent="1" vertex="1">
-          <mxGeometry x="969.83" y="521" width="610" height="69" as="geometry" />
+          <mxGeometry x="1086.83" y="530" width="610" height="69" as="geometry" />
         </mxCell>
         <mxCell id="_b3RE5Qanj8M8GSgnT4w-153" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=5;strokeColor=#000000;fontFamily=Helvetica;labelBorderColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=30;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
