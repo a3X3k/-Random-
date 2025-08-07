@@ -624,7 +624,7 @@
         <mxCell id="_b3RE5Qanj8M8GSgnT4w-118" value="" style="whiteSpace=wrap;html=1;fillColor=#003300;strokeColor=#FFFFFF;rounded=1;fontFamily=Helvetica;labelBorderColor=default;strokeWidth=5;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="-288.46" y="1619.2499999999998" width="455.89" height="126.3" as="geometry" />
         </mxCell>
-        <mxCell id="_b3RE5Qanj8M8GSgnT4w-119" value="&lt;font color=&quot;#ffffff&quot;&gt;Distannce and similarity score calculation between Query Set and Prototypes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=30;strokeWidth=5;" parent="1" vertex="1">
+        <mxCell id="_b3RE5Qanj8M8GSgnT4w-119" value="&lt;font color=&quot;#ffffff&quot;&gt;Distance and similarity score calculation between Query Set and Prototypes&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;labelBorderColor=none;fontSize=30;strokeWidth=5;" parent="1" vertex="1">
           <mxGeometry x="-287.87999999999994" y="1628.5399999999997" width="455.31" height="112.88" as="geometry" />
         </mxCell>
         <mxCell id="_b3RE5Qanj8M8GSgnT4w-120" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;strokeWidth=5;strokeColor=#FFCCCC;dashed=1;fontFamily=Helvetica;labelBorderColor=default;fontSize=30;" parent="1" edge="1">
