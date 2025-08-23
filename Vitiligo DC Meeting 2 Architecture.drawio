@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="tqetK6CSH79DsMxp3hTY">
-    <mxGraphModel dx="2295" dy="1243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3934" dy="2131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         <mxCell id="I5Qk6dBRz_8ZCrn2gXpS-72" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Lesion Type Detection&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2295.74" y="783.61" width="254.98" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="00_5FXp9Js73B5rF4UxO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=4;" edge="1" parent="1" source="I5Qk6dBRz_8ZCrn2gXpS-74">
+        <mxCell id="00_5FXp9Js73B5rF4UxO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="I5Qk6dBRz_8ZCrn2gXpS-74">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3540" y="450" as="targetPoint" />
             <Array as="points">
@@ -243,7 +243,7 @@
         <mxCell id="I5Qk6dBRz_8ZCrn2gXpS-74" value="&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Hypopigmentation Conditions&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="3174.3999999999996" y="123.61" width="254.49" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="00_5FXp9Js73B5rF4UxO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;strokeWidth=4;" edge="1" parent="1" source="I5Qk6dBRz_8ZCrn2gXpS-76">
+        <mxCell id="00_5FXp9Js73B5rF4UxO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="I5Qk6dBRz_8ZCrn2gXpS-76">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3540" y="670" as="targetPoint" />
             <Array as="points">
@@ -269,7 +269,7 @@
         <mxCell id="I5Qk6dBRz_8ZCrn2gXpS-78" value="&lt;div style=&quot;line-height: 140%;&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Hyperpigmentation&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Conditions&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=none;fillColor=light-dark(#FFFF00,var(--ge-dark-color, #121212));" parent="1" vertex="1">
           <mxGeometry x="3177.9300000000003" y="533.61" width="254.49" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="00_5FXp9Js73B5rF4UxO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=4;" edge="1" parent="1" source="I5Qk6dBRz_8ZCrn2gXpS-80">
+        <mxCell id="00_5FXp9Js73B5rF4UxO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;strokeWidth=5;" edge="1" parent="1" source="I5Qk6dBRz_8ZCrn2gXpS-80">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3540" y="880" as="targetPoint" />
           </mxGeometry>
