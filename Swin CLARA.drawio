@@ -204,7 +204,7 @@
         <mxCell id="s6Bo0KcBa6-XlI6CI8b0-103" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 180%;&quot;&gt;Standard Swin Feedforward&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-1121.38" y="1590" width="380" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-104" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Patch Merging&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-104" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Patch Merging (Except Stage 4)&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-1121.38" y="1670" width="380" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s6Bo0KcBa6-XlI6CI8b0-126" value="\[&#xa;\begin{aligned}&#xa;&amp;\text{Meta Tokens } [M_1 \ldots M_{T_m}] \\&#xa;&amp;+ \text{Meta CLS } (m_{cls})&#xa;\end{aligned}&#xa;\]" style="text;whiteSpace=wrap;fontSize=20;align=center;verticalAlign=middle;" vertex="1" parent="1">
