@@ -1,14 +1,107 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.1.1">
   <diagram name="Page-1" id="LP4Lb6s6A55-pqGKUZwg">
-    <mxGraphModel dx="2276" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1929" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" edge="1" parent="1" source="s6Bo0KcBa6-XlI6CI8b0-15" target="s6Bo0KcBa6-XlI6CI8b0-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-193" y="940" />
+              <mxPoint x="40" y="940" />
+              <mxPoint x="40" y="390" />
+              <mxPoint x="269" y="390" />
+              <mxPoint x="269" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-15" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;dashed=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-403.25" y="420" width="420.5" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="1" source="s6Bo0KcBa6-XlI6CI8b0-1" target="s6Bo0KcBa6-XlI6CI8b0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="s6Bo0KcBa6-XlI6CI8b0-1" value="&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Input Image&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="150" width="160" height="60" as="geometry" />
+          <mxGeometry x="-120" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=5;" edge="1" parent="1" source="s6Bo0KcBa6-XlI6CI8b0-2" target="s6Bo0KcBa6-XlI6CI8b0-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s6Bo0KcBa6-XlI6CI8b0-2" value="&lt;font style=&quot;font-size: 20px; line-height: 140%;&quot;&gt;Input Metadata&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=5;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="190" height="60" as="geometry" />
+          <mxGeometry x="230" y="140" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-4" value="\[&#xa;\text{Patch Tokens } X_0&#xa;\]" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="250" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-6" value="\[&#xa;\text{Meta Tokens } [M_1 \ldots M_{T_m}] + \text{Meta CLS } (m_{cls})&#xa;\]" style="text;whiteSpace=wrap;verticalAlign=middle;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="255" width="470" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Content Adaptive Window Partitioning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="440" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Window MSA / Shifted-Window MSA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="520" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-10" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Feature-wise Linear Modulation&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="600" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-11" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Lesion Prototype Tokens&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="680" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-13" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 180%;&quot;&gt;Standard Swin Feedforward&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="760" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-14" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Patch Merging&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-383" y="840" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeWidth=3;" edge="1" parent="1" source="s6Bo0KcBa6-XlI6CI8b0-25" target="s6Bo0KcBa6-XlI6CI8b0-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="940" />
+              <mxPoint x="503" y="940" />
+              <mxPoint x="503" y="430" />
+              <mxPoint x="733" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;dashed=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="60" y="420" width="417" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Content Adaptive Window Partitioning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="440" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Window MSA / Shifted-Window MSA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="520" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-28" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Feature-wise Linear Modulation&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="600" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-29" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Lesion Prototype Tokens&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="680" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-30" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 180%;&quot;&gt;Standard Swin Feedforward&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="760" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-31" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Patch Merging&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="78.5" y="840" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-32" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=5;dashed=1;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="462.5" width="410" height="415" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Content Adaptive Window Partitioning&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="480" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-34" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Window MSA / Shifted-Window MSA&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="560" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-36" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Lesion Prototype Tokens&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="640" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-37" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px; line-height: 180%;&quot;&gt;Standard Swin Feedforward&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="720" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-38" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Patch Merging&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="800" width="380" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
