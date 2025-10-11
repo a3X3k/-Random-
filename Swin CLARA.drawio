@@ -310,6 +310,9 @@
         <mxCell id="PXFojAYtINAn4VvG-NGz-7" value="\[&#xa;[N_{p} \times D]&#xa;\]" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-610" y="1498.5" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="PXFojAYtINAn4VvG-NGz-10" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font&gt;&lt;b style=&quot;&quot;&gt;Predicted Lesion Subtype&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-424.38" y="1790" width="323.75" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
