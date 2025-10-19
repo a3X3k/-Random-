@@ -163,10 +163,10 @@
         <mxCell id="s6Bo0KcBa6-XlI6CI8b0-95" value="\[&#xa;\text{Patch Tokens } X_0&#xa;\]" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-1140" y="1148" width="210" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#B3B3B3,#808080);dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="akIok6QnzVP7RstR46Sw-7" target="J1cEJ2yGmY-RY53vB32V-1" edge="1">
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-97" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=5;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=light-dark(#4D4D4D,#808080);dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="akIok6QnzVP7RstR46Sw-7" target="s6Bo0KcBa6-XlI6CI8b0-132" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1300" y="1717" />
+              <mxPoint x="-1300" y="1840" />
             </Array>
             <mxPoint x="-1525" y="1632" as="sourcePoint" />
             <mxPoint x="-1345" y="1502" as="targetPoint" />
@@ -206,8 +206,8 @@
             <mxPoint x="-501" y="1394" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-132" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Lesion Prototype Tokens&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-1080.69" y="1795" width="298.62" height="60" as="geometry" />
+        <mxCell id="s6Bo0KcBa6-XlI6CI8b0-132" value="&lt;span style=&quot;font-size: 20px; font-weight: 400;&quot;&gt;Feature-wise Linear Modulation&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-1101.38" y="1810" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A2LL4xwgvuRwQgL642rM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=4;curved=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="s6Bo0KcBa6-XlI6CI8b0-143" target="A2LL4xwgvuRwQgL642rM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -272,27 +272,24 @@
         <mxCell id="J1cEJ2yGmY-RY53vB32V-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=4;" parent="1" source="J1cEJ2yGmY-RY53vB32V-1" target="s6Bo0KcBa6-XlI6CI8b0-132" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="J1cEJ2yGmY-RY53vB32V-1" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Feature-wise Linear Modulation&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="J1cEJ2yGmY-RY53vB32V-1" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 700;&quot;&gt;Global Average Pool&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1097.0700000000002" y="1687" width="331.38" height="60" as="geometry" />
         </mxCell>
         <mxCell id="J1cEJ2yGmY-RY53vB32V-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;strokeWidth=4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="s6Bo0KcBa6-XlI6CI8b0-132" target="J1cEJ2yGmY-RY53vB32V-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-811" y="1825" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-630" y="1825" />
+              <mxPoint x="-630" y="1840" />
               <mxPoint x="-630" y="1384" />
             </Array>
             <mxPoint x="-175" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J1cEJ2yGmY-RY53vB32V-2" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;font-size: 20px; font-weight: 700;&quot;&gt;Global Average Pool&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="J1cEJ2yGmY-RY53vB32V-2" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Lesion Prototype Tokens&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0;strokeColor=default;fillColor=light-dark(#FFFFFF,var(--ge-dark-color, #121212));strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-502" y="1354" width="277.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PXFojAYtINAn4VvG-NGz-6" value="Lesion Prototype Feature Embeddings" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=20;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="-620" y="1427" width="383" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="PXFojAYtINAn4VvG-NGz-7" value="\[&#xa;[N_{p} \times D]&#xa;\]" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=20;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="-582" y="1450" width="60" height="100" as="geometry" />
+        <mxCell id="PXFojAYtINAn4VvG-NGz-6" value="Modulated Features" style="text;whiteSpace=wrap;align=center;verticalAlign=middle;fontSize=20;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-635" y="1445.5" width="213.25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="PXFojAYtINAn4VvG-NGz-10" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;&lt;font&gt;&lt;b style=&quot;&quot;&gt;Predicted Lesion Subtype&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-354.88" y="1795" width="323.75" height="60" as="geometry" />
